@@ -1,10 +1,11 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+title: Westchester Baha'i Community Web
+desctiption: Public website for Westchester Baha'i Cluster. Theme forked from Karna, a responsive jekyll theme which includes pinterest like pins.
 url: http://webjeda.com/
 permalink: ':title/'
 
 markdown: kramdown
+remote-theme: sharu725/karna
 baseurl: "/karna"
 full-version: "http://webjeda.com/karna-full/"
 
