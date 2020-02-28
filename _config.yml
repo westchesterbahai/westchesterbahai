@@ -5,8 +5,8 @@ url: https://westchesterbahai.github.io/westchesterbahai/
 permalink: ':title/'
 
 markdown: kramdown
-remote-theme: sharu725/karna
-full-version: "http://webjeda.com/karna-full/"
+#remote-theme: sharu725/karna
+#full-version: "http://webjeda.com/karna-full/"
 
 sass:
     style: compressed
@@ -40,6 +40,6 @@ api-token:
 include: [_pages]
 version: 0.8
 
-plugins: 
+plugins_dir: 
     - jekyll-paginate
     - jekyll-seo-tag
