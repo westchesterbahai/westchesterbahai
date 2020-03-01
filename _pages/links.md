@@ -1,6 +1,6 @@
 ---
-title: About
+title: Links
 layout: post
-permalink: /about/
+permalink: /links/
 ---
 undEr cOnstruCtion
