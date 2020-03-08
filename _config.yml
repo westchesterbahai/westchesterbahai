@@ -1,5 +1,5 @@
 
-title: The Baha'i Communities of Westchester County, New York
+title: The Westchester NY Baha'i Communities
 desctiption: Public website for Westchester Baha'i Cluster. Theme forked from Karna, a responsive jekyll theme which includes pinterest like pins.
 url: https://westchesterbahai.github.io/westchesterbahai/
 permalink: ':title/'
@@ -26,6 +26,21 @@ compress_html:
 
 highlight: rouge
 
+collections:
+  devotionals:
+    output: true
+  development:
+    output: true
+  childrens-class:
+    output: true
+  youth-group:
+    output: true
+  study-circle:
+    output: true
+  special-events:
+    output: true
+  bahai-meeting:
+    output: true
 
 # Tracker
 analytics: UA-83979019-1

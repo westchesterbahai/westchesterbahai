@@ -71,7 +71,6 @@ This is a placeholder for a "contact us." I'd prefer to direct people to actual 
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
         
 </form>
 

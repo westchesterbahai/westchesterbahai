@@ -2,8 +2,8 @@
 layout: post
 title:  "Post with no image"
 description: No image? No problem. The card will still look good! But having an image increases click through rate.
-color: 00897B
-author: webjeda
+img: special-events.gif
+color: e36120
 ---
 When there is no image mentioned in the front-matter, just a card is displayed.
 
